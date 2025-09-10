@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: dockerdemokubapp
-        image: richapanjabi/dockerfirstimage:v1
+        image: richapanjabi/firstdockerimage:v1
         ports:
         - containerPort: 80
